@@ -1,10 +1,9 @@
-# 🤖 IA Chatbot Simples
+to# 🤖 IA Chatbot Simples
 
-Um chatbot básico em Python que responde aleatoriamente mensagens do usuário.
+## Instalação (Termux)
 
-## Como usar
-
-No Termux:
-
+```sh
+git clone https://github.com/RAFAELYSGEGEGEGG/meu-projeto
+cd meu-projeto
 ```sh
 python main.py
